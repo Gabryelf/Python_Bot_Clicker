@@ -1,6 +1,6 @@
 import flet as ft
 import asyncio
-from data_base import *
+#from data_base import *
 
 DATABASE_PATH = 'database.db'
 user_id = 0
@@ -8,7 +8,7 @@ url_ref = "CookiesClickerGameBot"
 
 
 async def main(page: ft.Page) -> None:
-    init_db()
+    #init_db()
     page.bgcolor = "#000000"
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
