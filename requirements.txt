@@ -23,7 +23,7 @@ cloudbiolinux==0.1
 colorama==0.4.6
 coloredlogs==15.0.1
 comtypes==1.2.0
-contourpy==1.2.1
+contourpy==1.1.1
 contrib==0.3.0
 cookiecutter==2.6.0
 coverage==7.4.3
