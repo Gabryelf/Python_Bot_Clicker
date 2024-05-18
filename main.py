@@ -1,4 +1,5 @@
 import flet as ft
+from data_base import *
 import asyncio
 
 DATABASE_PATH = 'database.db'
