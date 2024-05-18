@@ -1,6 +1,6 @@
 import flet as ft
-from data_base import *
 import asyncio
+from data_base import *
 
 DATABASE_PATH = 'database.db'
 user_id = 0
