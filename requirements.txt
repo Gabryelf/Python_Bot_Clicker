@@ -1,6 +1,0 @@
-async-timeout==4.0.2
-flet==0.22.0
-flet-core==0.22.0
-flet-runtime==0.22.0
-sqlparse==0.4.4
-
