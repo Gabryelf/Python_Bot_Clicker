@@ -67,7 +67,6 @@ MarkupSafe==2.1.5
 matplotlib==3.7.5
 mccabe==0.7.0
 mdurl==0.1.2
-moviepy==1.0.3
 multidict==6.0.4
 numpy==1.24.2
 oauthlib==3.2.2
