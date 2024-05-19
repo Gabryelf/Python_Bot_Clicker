@@ -213,4 +213,4 @@ async def main(page: ft.Page) -> None:
 
 if __name__ == "__main__":
     #ft.app(target=main, view=None, port=3001)
-    ft.app(target=main)
+    ft.app(target=main, view=ft.WEB_BROWSER)
